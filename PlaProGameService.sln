@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaProGameService", "PlaProGameService\PlaProGameService.csproj", "{31013163-D3A2-4850-A231-B5601C7EDF2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaProGameService.Tests", "PlaProGameService.Tests\PlaProGameService.Tests.csproj", "{B1AC77C9-9187-49B1-A0D7-7BFBDB4BBCE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31013163-D3A2-4850-A231-B5601C7EDF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31013163-D3A2-4850-A231-B5601C7EDF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31013163-D3A2-4850-A231-B5601C7EDF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31013163-D3A2-4850-A231-B5601C7EDF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AC77C9-9187-49B1-A0D7-7BFBDB4BBCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AC77C9-9187-49B1-A0D7-7BFBDB4BBCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AC77C9-9187-49B1-A0D7-7BFBDB4BBCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AC77C9-9187-49B1-A0D7-7BFBDB4BBCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32404D93-42D1-48A1-817A-168B6C897478}
+	EndGlobalSection
+EndGlobal
